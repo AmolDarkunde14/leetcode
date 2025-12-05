@@ -1,3 +1,4 @@
+# merge two sorted array
 class solution:
     def merge(arr1,m,arr2,n):
         i = m - 1
